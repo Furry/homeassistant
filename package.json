@@ -1,0 +1,12 @@
+{
+  "name": "elieenha",
+  "version": "1.0.0",
+  "main": "dist/index.js",
+  "license": "MIT",
+  "scripts": {
+    "go": "tsc && node ./dist/index.js"
+  },
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
